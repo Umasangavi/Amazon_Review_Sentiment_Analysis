@@ -24,8 +24,7 @@ The Following steps Were Followed For Completing This Project:
 4. Deployment of Model:
 
 * Creating a web application using Streamlit
-* Deploying it using Heroku Cloud Service
 
-5. Web app:
+5. Web app link:
 
 * https://share.streamlit.io/umasangavi/amazon_review_sentiment_analysis/main/app.py
