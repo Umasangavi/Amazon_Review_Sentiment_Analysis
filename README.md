@@ -21,7 +21,11 @@ The Following steps Were Followed For Completing This Project:
 * Support Vector Machine Model
 * Evaluation of model using Accuracy Score, Confusion Matrix, and Classification Report
 
-3. Deployment of Model:
+4. Deployment of Model:
 
 * Creating a web application using Streamlit
 * Deploying it using Heroku Cloud Service
+
+5. Web app:
+
+* https://share.streamlit.io/umasangavi/amazon_review_sentiment_analysis/main/app.py
