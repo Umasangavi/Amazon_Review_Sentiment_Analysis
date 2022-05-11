@@ -4,22 +4,24 @@ This is a real world project on Sentiment Analysis which takes in text input fro
 
 The Following steps Were Followed For Completing This Project:
 
-Gathering of data: The amazonreviews dataset from Kaggle was used for this project.
+1. Gathering of data: The amazonreviews dataset from Kaggle was used for this project.
 
-Preprocessing of data:
+2. Preprocessing of data:
 
-"*"Lower casing the text
-Expanding contractions
-Removing punctuations and special characters
-Removing stopwords
-Tokenization
-Lemmatization
-Approach to Sentiment Analysis:
+* Lower casing the text
+* Expanding contractions
+* Removing punctuations and special characters
+* Removing stopwords
+* Tokenization
+* Lemmatization
 
-TFIDF Vectorizer
-Support Vector Machine Model
-Evaluation of model using Accuracy Score, Confusion Matrix, and Classification Report
-Deployment of Model:
+3. Approach to Sentiment Analysis:
 
-Creating a web application using Streamlit
-Deploying it using Heroku Cloud Service
+* TFIDF Vectorizer
+* Support Vector Machine Model
+* Evaluation of model using Accuracy Score, Confusion Matrix, and Classification Report
+
+3. Deployment of Model:
+
+* Creating a web application using Streamlit
+* Deploying it using Heroku Cloud Service
